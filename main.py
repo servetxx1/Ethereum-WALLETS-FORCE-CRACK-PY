@@ -63,7 +63,7 @@ def process_eth_address(api_key):
     mnemonic, eth_address = generate_eth_address()
     balance = check_eth_balance(api_key, eth_address)
 
-    message = f"Mnemonic: {mnemonic}\nETH Adresi: {eth_address}\nBakiye: {balance} ETH\n"
+    message = f"Mnemonic: {mnemonic}\nETH Adresi: {eth_address}\nBalance: {balance} ETH\n"
 
     print(message)
 
