@@ -15,7 +15,7 @@ for java script:https://github.com/servetxx1/ETHERUM-WALLETS-FORCE-CRACK
 
 [![ETH WALLET CRACK]([https://i.hizliresim.com/tecmwtg.png])](https://www.youtube.com/watch?v=VHq7bDzuDP4)
 
-
+script 7/24  run if find with balance send  to you telegram ,for more info write me telegram https://t.me/xirimeboxa27
 ## Requirements
 
 - Python 3.x
