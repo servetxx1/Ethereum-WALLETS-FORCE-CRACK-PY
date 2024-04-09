@@ -13,7 +13,7 @@ for java script:https://github.com/servetxx1/ETHERUM-WALLETS-FORCE-CRACK
 ![ETH FORCE](https://i.hizliresim.com/bk7b1u9.png)
 
 
-[![ETH WALLET CRACK]([https://i.hizliresim.com/tecmwtg.png])(https://www.youtube.com/watch?v=VHq7bDzuDP4)
+[![ETH WALLET CRACK]([https://i.hizliresim.com/tecmwtg.png])](https://www.youtube.com/watch?v=VHq7bDzuDP4)
 
 
 ## Requirements
