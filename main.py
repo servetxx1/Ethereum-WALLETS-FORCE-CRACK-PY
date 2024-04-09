@@ -67,7 +67,7 @@ def process_eth_address(api_key):
 
     print(message)
 
-    # Bakiye 0.0'dan farklı ise bildirim gönder
+
     if balance != 0.0:
         send_telegram_message(message)
 
