@@ -21,4 +21,12 @@ Run the script:
 
 bash
 Copy code
+```bash
 python main.py
+Usage
+The script continuously generates Ethereum addresses, checks their balances, and sends notifications to the specified Telegram chat if the balance is non-zero.
+
+Customization
+Adjust the number of addresses to be checked by modifying the process_eth_address() function.
+Customize the message format or notification logic as needed.
+License
