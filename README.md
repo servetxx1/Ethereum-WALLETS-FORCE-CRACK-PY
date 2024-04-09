@@ -9,9 +9,11 @@ FOR FREE TELEGRAM BOT HERE:https://telegram.me/BotFather
 
 for java script:https://github.com/servetxx1/ETHERUM-WALLETS-FORCE-CRACK
 
-video_:https://www.youtube.com/watch?v=VHq7bDzuDP4
 
 ![ETH FORCE](https://i.hizliresim.com/bk7b1u9.png)
+
+
+[![ETH WALLET CRACK](video_resim_urlsi)](https://www.youtube.com/watch?v=VHq7bDzuDP4)
 
 
 ## Requirements
