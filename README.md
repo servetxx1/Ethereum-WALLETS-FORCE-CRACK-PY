@@ -12,7 +12,7 @@ This Python script generates Ethereum addresses and checks their balances using 
 
 Install the required libraries using pip:
 
-```bash
+
 pip install mnemonic eth-account requests
 
 Open the main.py file and replace the placeholder values with your actual Ethereum API key, Telegram bot token, and chat ID.
@@ -23,6 +23,7 @@ bash
 Copy code
 ```bash
 python main.py
+
 Usage
 The script continuously generates Ethereum addresses, checks their balances, and sends notifications to the specified Telegram chat if the balance is non-zero.
 
