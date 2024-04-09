@@ -2,10 +2,15 @@
 # Ethereum Address Checker
 
 This Python script generates Ethereum addresses and checks their balances using the Etherscan API. If the balance of an address is non-zero, it sends a notification to a specified Telegram chat using a Telegram bot.
+
 FOR ETH API KEY HERE:https://docs.etherscan.io/getting-started/viewing-api-usage-statistics
+
 FOR FREE TELEGRAM BOT HERE:https://telegram.me/BotFather
+
 for java script:https://github.com/servetxx1/ETHERUM-WALLETS-FORCE-CRACK
+
 video_:https://www.youtube.com/watch?v=VHq7bDzuDP4
+
 ## Requirements
 
 - Python 3.x
